@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 1,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "ftyhj",
+            "colors": [
+                "#000000",
+                "#F0F0F0",
+                "#E60000",
+                "#FF8ABE",
+                "#FEA46C",
+                "#FFFB8A",
+                "#54989C",
+                "#ADE199",
+                "#6480AF",
+                "#D6FAFF",
+                "#5A008F",
+                "#CAA0C4",
+                "#682D8B",
+                "#FFECE5",
+                "#41231F",
+                "#1C1C1C"
+            ],
+            "custom": true
+        }
+    }
+}
